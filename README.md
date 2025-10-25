@@ -1,6 +1,6 @@
-# Proyecto ECS con Terraform
+# Proyecto cluster de ECS con Terraform
 
-Despliegue de aplicación web en AWS usando ECS Fargate.
+Despliegue de cluster de ECS usando Fargate y Terraform.
 
 ## Requisitos
 - Terraform
